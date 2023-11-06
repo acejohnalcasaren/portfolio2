@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background: url("ww.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+.cover{
+    background: transparent;
+     width: 1750px;
+     height: 900px;
+     margin-top: 50px;
+     display: flex;
+}
+.box{
+    margin: 5px;
+    width: 800px;
+    height: 400px;
+    box-shadow: -1px 0 10px #000000;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+img{
+    width: 427px;
+    height: 427px;
+    display: flex;
+}
+p{
+font-size: 30px;
+}
